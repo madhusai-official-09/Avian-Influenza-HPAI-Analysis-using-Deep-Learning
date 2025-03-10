@@ -1,0 +1,16 @@
+﻿_id,Scientific_Name,Common_Name,Date,Year,Month,Day,Time,Country,Country_State_County,State,County,Locality,Latitude,Longitude,Parent_Species,target_H5_HPAI
+16290,Spatula clypeata,Northern Shoveler,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Spatula clypeata,0
+16291,Anas acuta,Northern Pintail,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Anas acuta,1
+16292,Anas acuta,Northern Pintail,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Anas acuta,1
+16293,Anas acuta,Northern Pintail,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Anas acuta,1
+16294,Anas crecca crecca,Green-winged Teal (Eurasian),2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Anas crecca,0
+16295,Tringa nebularia,Common Greenshank,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Tringa nebularia,0
+16296,Arenaria interpres,Ruddy Turnstone,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Arenaria interpres,0
+16297,Calidris canutus,Red Knot,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Calidris canutus,0
+16298,Vanellus vanellus,Northern Lapwing,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Vanellus vanellus,0
+16299,Numenius arquata,Eurasian Curlew,2020-01-27T00:00:00,2020,1,27,1406,Ireland,IE-L-DN,Leinster,Dublin,North Bull Island NR--causeway,53.3726,-6.1591,Numenius arquata,0
+16300,Aythya collaris,Ring-necked Duck,2020-01-27T00:00:00,2020,1,27,1225,Ireland,IE-C-GY,Connaught,Galway,Omey Island,53.5309,-10.1612,Aythya collaris,0
+16301,Aythya collaris,Ring-necked Duck,2020-01-27T00:00:00,2020,1,27,1225,Ireland,IE-C-GY,Connaught,Galway,Omey Island,53.5309,-10.1612,Aythya collaris,0
+16302,Larus delawarensis,Ring-billed Gull,2020-01-27T00:00:00,2020,1,27,1225,Ireland,IE-C-GY,Connaught,Galway,Omey Island,53.5309,-10.1612,Larus delawarensis,0
+16303,Larus delawarensis,Ring-billed Gull,2020-01-27T00:00:00,2020,1,27,1225,Ireland,IE-C-GY,Connaught,Galway,Omey Island,53.5309,-10.1612,Larus delawarensis,0
+16304,Larus delawarensis,Ring-billed Gull,2020-01-27T00:00:00,2020,1,27,1225,Ireland,IE-C-GY,Connaught,Galway,Omey Island,53.5309,-10.1612,Larus delawarensis,0
